@@ -1,5 +1,42 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.box{
+  margin-top: 20px;
+}
 
+.q2{
+  width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ecf1f2;
+}
+
+.q2__thumb.is-left{
+  float: left;
+  margin-right: 20px;
+}
+
+.q2__thumb{
+  margin-bottom: 10PX;
+}
+
+.q2__thumb > img{
+  vertical-align: bottom;
+}
+
+.q2__text{
+  font-size: 18px;
+  line-height: 22PX;
+  word-break: break-all;
+}
+
+.q2__thumh.is-right{
+  float: right;
+  margin-left: 20px;
+}
+
+.q2__thumb{
+  margin-bottom: 10PX;
+}
 /* 回答はここに書いてね */
